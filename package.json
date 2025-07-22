@@ -1,19 +1,19 @@
 {
-  "name": "penthouse",
+  "name": "@andreaspapav/penthouse",
   "description": "Generate critical path CSS for web pages",
-  "version": "2.3.3",
-  "homepage": "https://github.com/pocketjoso/penthouse",
+  "version": "1.0.0",
+  "homepage": "https://github.com/andreaspapav/penthouse",
   "author": {
-    "name": "Jonas Ohlsson Aden",
-    "email": "jonas.sebastian.ohlsson@gmail.com",
-    "url": "https://jonassebastianohlsson.com"
+    "name": "Andreas Papavasiliou",
+    "email": "andreaspapavasiliou@yahoo.com",
+    "url": "https://github.com/andreaspapav"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/pocketjoso/penthouse.git#master"
+    "url": "git://github.com/andreaspapav/penthouse.git#master"
   },
   "bugs": {
-    "url": "https://github.com/pocketjoso/penthouse/issues"
+    "url": "https://github.com/andreaspapav/penthouse/issues"
   },
   "license": "MIT",
   "main": "./lib/index.js",
